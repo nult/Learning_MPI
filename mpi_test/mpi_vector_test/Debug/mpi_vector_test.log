@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  mpi_vector_test.cpp
+f:\workplace\mpi\mpi_vector_test\mpi_vector_test\mpi_vector_test.cpp(7): warning C4101: “test”: 未引用的局部变量
+  mpi_vector_test.vcxproj -> F:\workplace\mpi\mpi_vector_test\Debug\mpi_vector_test.exe
